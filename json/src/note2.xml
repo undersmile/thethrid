@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Fourmasterpieces>
+	<masterpiece>
+		<id>3303</id>
+		<writer>吴承恩</writer>
+		<name>西游记</name>
+		<price>59</price>
+		<describe>唐三藏西天取经的故事</describe>
+	</masterpiece>
+	<masterpiece>
+		<id>3304</id>
+		<writer>施耐庵</writer>
+		<name>水浒传</name>
+		<price>49</price>
+		<describe>梁山一百零八好汉的故事</describe>
+	</masterpiece>
+	<masterpiece>
+		<id>3305</id>
+		<writer>曹雪芹</writer>
+		<name>红楼梦</name>
+		<price>79</price>
+		<describe>林黛玉贾宝钗的爱恨情仇</describe>
+	</masterpiece>
+	<masterpiece>
+		<id>3306</id>
+		<writer>罗贯中</writer>
+		<name>三国演义</name>
+		<price>59</price>
+		<describe>三国鼎立群雄四起</describe>
+	</masterpiece>
+</Fourmasterpieces>

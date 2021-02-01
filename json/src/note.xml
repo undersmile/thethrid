@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+	<stu>
+		<name>陈浩然</name>
+		<sex>男</sex>
+		<age>23</age>
+		<passwd>201706</passwd>
+	</stu>
+	<stu>
+		<name>陈景然</name>
+		<sex>男</sex>
+		<age>26</age>
+		<passwd>201845</passwd>
+	</stu>
+	<stu>
+		<name>李四</name>
+		<sex>男</sex>
+		<age>27</age>
+		<passwd>202015</passwd>
+	</stu>
+	<stu>
+		<name>李四</name>
+		<sex>女</sex>
+		<age>20</age>
+		<passwd>201946</passwd>
+	</stu>
+	<stu>
+		<name>赵五</name>
+		<sex>男</sex>
+		<age>29</age>
+		<passwd>201762</passwd>
+	</stu>
+</student>
