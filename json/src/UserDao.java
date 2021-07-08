@@ -6,4 +6,5 @@ public interface UserDao {
 	public void bbb();
 	public void ccc();
 	public void ddd();
+	public void sie_one();
 }
