@@ -7,4 +7,5 @@ public interface UserDao {
 	public void ccc();
 	public void ddd();
 	public void sie_one();
+	public void sie_two();	//dev_sie0708
 }
